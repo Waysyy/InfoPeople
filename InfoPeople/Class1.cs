@@ -48,19 +48,6 @@ namespace InfoPeople
             }
         }
 
-        /*public static List<People> GetMiddleAge()
-        {
-            var records = RecordsXML.Get().PeopleList;
-            People maleRecord = new People();
-            maleRecord.Height = 0;
-            Record femaleRecord = new Record();
-            femaleRecord.Height = 0;
-
-            
-
-            var result = new List<Record> { pe, femaleRecord };
-            return result;
-        }*/
 
 
         public static void Generate(uint num)

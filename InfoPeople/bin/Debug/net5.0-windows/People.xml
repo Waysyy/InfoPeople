@@ -2,504 +2,504 @@
 <Info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PeopleList>
     <People>
-      <surname>Кузнецов</surname>
-      <age>32</age>
-      <city>Нижний Новгород</city>
-    </People>
-    <People>
-      <surname>Козлов</surname>
-      <age>40</age>
-      <city>Нижний Новгород</city>
-    </People>
-    <People>
-      <surname>Смирнов</surname>
-      <age>48</age>
-      <city>Калининград</city>
-    </People>
-    <People>
-      <surname>Смирнов</surname>
-      <age>27</age>
-      <city>Кемерово</city>
-    </People>
-    <People>
-      <surname>Сидоров</surname>
-      <age>23</age>
-      <city>Калининград</city>
-    </People>
-    <People>
-      <surname>Сидоров</surname>
-      <age>60</age>
-      <city>Калининград</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>28</age>
-      <city>Новосибирск</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>39</age>
-      <city>СПБ</city>
-    </People>
-    <People>
-      <surname>Козлов</surname>
-      <age>5</age>
-      <city>Калининград</city>
-    </People>
-    <People>
-      <surname>Кузнецов</surname>
-      <age>34</age>
-      <city>Нижний Новгород</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>49</age>
-      <city>Томск</city>
-    </People>
-    <People>
-      <surname>Сидоров</surname>
-      <age>30</age>
-      <city>Нижний Новгород</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>59</age>
-      <city>Кемерово</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>25</age>
-      <city>Москва</city>
-    </People>
-    <People>
-      <surname>Смирнов</surname>
-      <age>90</age>
-      <city>Новосибирск</city>
-    </People>
-    <People>
-      <surname>Сидоров</surname>
-      <age>43</age>
-      <city>СПБ</city>
-    </People>
-    <People>
-      <surname>Кузнецов</surname>
-      <age>7</age>
-      <city>Новокузнецк</city>
-    </People>
-    <People>
-      <surname>Козлов</surname>
-      <age>81</age>
-      <city>Омск</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>88</age>
-      <city>Новокузнецк</city>
-    </People>
-    <People>
-      <surname>Сидоров</surname>
-      <age>78</age>
-      <city>Калининград</city>
-    </People>
-    <People>
-      <surname>Смирнов</surname>
-      <age>21</age>
-      <city>СПБ</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>48</age>
-      <city>Новокузнецк</city>
-    </People>
-    <People>
-      <surname>Козлов</surname>
-      <age>22</age>
-      <city>Кемерово</city>
-    </People>
-    <People>
-      <surname>Сидоров</surname>
-      <age>78</age>
-      <city>Москва</city>
-    </People>
-    <People>
       <surname>Иванов</surname>
-      <age>35</age>
-      <city>Кемерово</city>
-    </People>
-    <People>
-      <surname>Иванов</surname>
-      <age>29</age>
-      <city>Калининград</city>
-    </People>
-    <People>
-      <surname>Кузнецов</surname>
-      <age>7</age>
-      <city>СПБ</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>56</age>
-      <city>Калининград</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>11</age>
-      <city>Омск</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>48</age>
-      <city>Нижний Новгород</city>
-    </People>
-    <People>
-      <surname>Смирнов</surname>
-      <age>14</age>
-      <city>Нижний Новгород</city>
-    </People>
-    <People>
-      <surname>Козлов</surname>
-      <age>43</age>
-      <city>Москва</city>
-    </People>
-    <People>
-      <surname>Иванов</surname>
-      <age>45</age>
-      <city>Новокузнецк</city>
-    </People>
-    <People>
-      <surname>Кузнецов</surname>
-      <age>73</age>
-      <city>Новокузнецк</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>90</age>
-      <city>Новосибирск</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>36</age>
-      <city>СПБ</city>
-    </People>
-    <People>
-      <surname>Кузнецов</surname>
-      <age>30</age>
-      <city>Новокузнецк</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>12</age>
-      <city>Томск</city>
-    </People>
-    <People>
-      <surname>Козлов</surname>
-      <age>84</age>
-      <city>Нижний Новгород</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>78</age>
-      <city>СПБ</city>
-    </People>
-    <People>
-      <surname>Смирнов</surname>
-      <age>34</age>
-      <city>Кемерово</city>
-    </People>
-    <People>
-      <surname>Козлов</surname>
-      <age>50</age>
-      <city>Томск</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>75</age>
-      <city>Новокузнецк</city>
-    </People>
-    <People>
-      <surname>Сидоров</surname>
-      <age>71</age>
-      <city>Калининград</city>
-    </People>
-    <People>
-      <surname>Козлов</surname>
-      <age>64</age>
-      <city>Кемерово</city>
-    </People>
-    <People>
-      <surname>Смирнов</surname>
-      <age>35</age>
-      <city>Омск</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>54</age>
-      <city>Калининград</city>
-    </People>
-    <People>
-      <surname>Козлов</surname>
-      <age>63</age>
-      <city>Новокузнецк</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>29</age>
-      <city>СПБ</city>
-    </People>
-    <People>
-      <surname>Иванов</surname>
-      <age>54</age>
-      <city>Кемерово</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>30</age>
-      <city>Омск</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>10</age>
-      <city>Кемерово</city>
-    </People>
-    <People>
-      <surname>Смирнов</surname>
-      <age>10</age>
+      <age>9</age>
       <city>Томск</city>
     </People>
     <People>
       <surname>Смирнов</surname>
-      <age>59</age>
-      <city>Новосибирск</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>12</age>
-      <city>Томск</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>41</age>
-      <city>Нижний Новгород</city>
-    </People>
-    <People>
-      <surname>Кузнецов</surname>
-      <age>33</age>
-      <city>Омск</city>
-    </People>
-    <People>
-      <surname>Кузнецов</surname>
-      <age>88</age>
-      <city>Калининград</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>87</age>
-      <city>Новосибирск</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>72</age>
-      <city>Новосибирск</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>14</age>
-      <city>Новосибирск</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>60</age>
-      <city>Омск</city>
-    </People>
-    <People>
-      <surname>Смирнов</surname>
-      <age>97</age>
-      <city>Новокузнецк</city>
-    </People>
-    <People>
-      <surname>Кузнецов</surname>
-      <age>92</age>
-      <city>Калининград</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>36</age>
-      <city>Москва</city>
-    </People>
-    <People>
-      <surname>Сидоров</surname>
-      <age>67</age>
-      <city>Новокузнецк</city>
-    </People>
-    <People>
-      <surname>Кузнецов</surname>
       <age>3</age>
-      <city>Новосибирск</city>
+      <city>Новокузнецк</city>
     </People>
     <People>
-      <surname>Сидоров</surname>
-      <age>66</age>
+      <surname>Трифонов</surname>
+      <age>10</age>
       <city>Томск</city>
     </People>
     <People>
+      <surname>Козлов</surname>
+      <age>2</age>
+      <city>Новосибирск</city>
+    </People>
+    <People>
+      <surname>Козлов</surname>
+      <age>77</age>
+      <city>Новокузнецк</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>50</age>
+      <city>Омск</city>
+    </People>
+    <People>
       <surname>Трифонов</surname>
-      <age>39</age>
+      <age>2</age>
+      <city>Омск</city>
+    </People>
+    <People>
+      <surname>Трифонов</surname>
+      <age>73</age>
+      <city>Новосибирск</city>
+    </People>
+    <People>
+      <surname>Кузнецов</surname>
+      <age>69</age>
+      <city>Томск</city>
+    </People>
+    <People>
+      <surname>Иванов</surname>
+      <age>77</age>
       <city>Кемерово</city>
     </People>
     <People>
-      <surname>Смирнов</surname>
-      <age>43</age>
-      <city>Омск</city>
+      <surname>Соколов</surname>
+      <age>49</age>
+      <city>Калининград</city>
     </People>
     <People>
       <surname>Трифонов</surname>
-      <age>89</age>
+      <age>44</age>
+      <city>Новокузнецк</city>
+    </People>
+    <People>
+      <surname>Сидоров</surname>
+      <age>86</age>
+      <city>Кемерово</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>32</age>
+      <city>Калининград</city>
+    </People>
+    <People>
+      <surname>Трифонов</surname>
+      <age>64</age>
+      <city>Новокузнецк</city>
+    </People>
+    <People>
+      <surname>Трифонов</surname>
+      <age>17</age>
       <city>Нижний Новгород</city>
     </People>
     <People>
-      <surname>Смирнов</surname>
-      <age>97</age>
-      <city>Новокузнецк</city>
+      <surname>Иванов</surname>
+      <age>36</age>
+      <city>СПБ</city>
+    </People>
+    <People>
+      <surname>Сидоров</surname>
+      <age>1</age>
+      <city>Москва</city>
     </People>
     <People>
       <surname>Кузнецов</surname>
-      <age>19</age>
-      <city>Омск</city>
-    </People>
-    <People>
-      <surname>Кузнецов</surname>
-      <age>59</age>
-      <city>Новокузнецк</city>
-    </People>
-    <People>
-      <surname>Смирнов</surname>
-      <age>47</age>
+      <age>86</age>
       <city>Калининград</city>
     </People>
     <People>
       <surname>Смирнов</surname>
       <age>74</age>
+      <city>Калининград</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>40</age>
+      <city>Новокузнецк</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>62</age>
+      <city>Кемерово</city>
+    </People>
+    <People>
+      <surname>Кузнецов</surname>
+      <age>96</age>
+      <city>Томск</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>41</age>
+      <city>СПБ</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>42</age>
+      <city>Новосибирск</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>48</age>
+      <city>Кемерово</city>
+    </People>
+    <People>
+      <surname>Иванов</surname>
+      <age>70</age>
       <city>Москва</city>
     </People>
     <People>
       <surname>Кузнецов</surname>
-      <age>47</age>
-      <city>Москва</city>
+      <age>24</age>
+      <city>Калининград</city>
     </People>
     <People>
-      <surname>Трифонов</surname>
-      <age>96</age>
-      <city>Новокузнецк</city>
+      <surname>Смирнов</surname>
+      <age>72</age>
+      <city>СПБ</city>
+    </People>
+    <People>
+      <surname>Кузнецов</surname>
+      <age>26</age>
+      <city>Нижний Новгород</city>
     </People>
     <People>
       <surname>Соколов</surname>
       <age>10</age>
-      <city>Москва</city>
-    </People>
-    <People>
-      <surname>Кузнецов</surname>
-      <age>27</age>
-      <city>Кемерово</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>76</age>
-      <city>Калининград</city>
-    </People>
-    <People>
-      <surname>Кузнецов</surname>
-      <age>23</age>
-      <city>Москва</city>
+      <city>Томск</city>
     </People>
     <People>
       <surname>Иванов</surname>
-      <age>6</age>
+      <age>79</age>
+      <city>Москва</city>
+    </People>
+    <People>
+      <surname>Сидоров</surname>
+      <age>16</age>
+      <city>СПБ</city>
+    </People>
+    <People>
+      <surname>Иванов</surname>
+      <age>31</age>
+      <city>Нижний Новгород</city>
+    </People>
+    <People>
+      <surname>Трифонов</surname>
+      <age>8</age>
+      <city>Нижний Новгород</city>
+    </People>
+    <People>
+      <surname>Сидоров</surname>
+      <age>64</age>
+      <city>Москва</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>90</age>
       <city>СПБ</city>
     </People>
     <People>
       <surname>Смирнов</surname>
-      <age>75</age>
-      <city>Томск</city>
+      <age>68</age>
+      <city>Москва</city>
     </People>
     <People>
-      <surname>Кузнецов</surname>
-      <age>42</age>
-      <city>Калининград</city>
-    </People>
-    <People>
-      <surname>Кузнецов</surname>
-      <age>60</age>
-      <city>Томск</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>82</age>
+      <surname>Иванов</surname>
+      <age>19</age>
       <city>СПБ</city>
     </People>
     <People>
-      <surname>Соколов</surname>
-      <age>11</age>
+      <surname>Трифонов</surname>
+      <age>18</age>
       <city>Калининград</city>
     </People>
     <People>
       <surname>Сидоров</surname>
-      <age>50</age>
+      <age>72</age>
       <city>Кемерово</city>
     </People>
     <People>
-      <surname>Сидоров</surname>
-      <age>85</age>
+      <surname>Соколов</surname>
+      <age>28</age>
+      <city>Нижний Новгород</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>32</age>
+      <city>Томск</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>17</age>
+      <city>СПБ</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>53</age>
+      <city>Кемерово</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>24</age>
+      <city>Москва</city>
+    </People>
+    <People>
+      <surname>Трифонов</surname>
+      <age>57</age>
+      <city>Томск</city>
+    </People>
+    <People>
+      <surname>Иванов</surname>
+      <age>87</age>
+      <city>Калининград</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>27</age>
+      <city>Новокузнецк</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>47</age>
+      <city>Кемерово</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>94</age>
       <city>Нижний Новгород</city>
     </People>
     <People>
       <surname>Сидоров</surname>
-      <age>38</age>
-      <city>Калининград</city>
-    </People>
-    <People>
-      <surname>Сидоров</surname>
-      <age>17</age>
-      <city>Москва</city>
-    </People>
-    <People>
-      <surname>Козлов</surname>
-      <age>59</age>
-      <city>СПБ</city>
-    </People>
-    <People>
-      <surname>Трифонов</surname>
-      <age>36</age>
-      <city>Омск</city>
-    </People>
-    <People>
-      <surname>Соколов</surname>
-      <age>81</age>
+      <age>66</age>
       <city>Новокузнецк</city>
     </People>
     <People>
       <surname>Соколов</surname>
-      <age>20</age>
+      <age>97</age>
+      <city>Томск</city>
+    </People>
+    <People>
+      <surname>Козлов</surname>
+      <age>74</age>
+      <city>Новосибирск</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>6</age>
+      <city>Калининград</city>
+    </People>
+    <People>
+      <surname>Козлов</surname>
+      <age>17</age>
+      <city>Кемерово</city>
+    </People>
+    <People>
+      <surname>Трифонов</surname>
+      <age>48</age>
+      <city>Новосибирск</city>
+    </People>
+    <People>
+      <surname>Сидоров</surname>
+      <age>43</age>
+      <city>Кемерово</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>14</age>
+      <city>СПБ</city>
+    </People>
+    <People>
+      <surname>Козлов</surname>
+      <age>56</age>
+      <city>Омск</city>
+    </People>
+    <People>
+      <surname>Иванов</surname>
+      <age>41</age>
+      <city>Калининград</city>
+    </People>
+    <People>
+      <surname>Козлов</surname>
+      <age>4</age>
+      <city>Кемерово</city>
+    </People>
+    <People>
+      <surname>Трифонов</surname>
+      <age>93</age>
+      <city>Омск</city>
+    </People>
+    <People>
+      <surname>Сидоров</surname>
+      <age>82</age>
+      <city>СПБ</city>
+    </People>
+    <People>
+      <surname>Трифонов</surname>
+      <age>82</age>
+      <city>Омск</city>
+    </People>
+    <People>
+      <surname>Козлов</surname>
+      <age>91</age>
+      <city>Нижний Новгород</city>
+    </People>
+    <People>
+      <surname>Козлов</surname>
+      <age>13</age>
+      <city>Новосибирск</city>
+    </People>
+    <People>
+      <surname>Иванов</surname>
+      <age>45</age>
+      <city>Москва</city>
+    </People>
+    <People>
+      <surname>Сидоров</surname>
+      <age>73</age>
       <city>Нижний Новгород</city>
     </People>
     <People>
       <surname>Кузнецов</surname>
-      <age>86</age>
-      <city>Москва</city>
+      <age>32</age>
+      <city>Омск</city>
     </People>
     <People>
       <surname>Кузнецов</surname>
-      <age>18</age>
-      <city>Москва</city>
+      <age>14</age>
+      <city>Нижний Новгород</city>
     </People>
     <People>
-      <surname>Кузнецов</surname>
-      <age>11</age>
-      <city>Новосибирск</city>
+      <surname>Смирнов</surname>
+      <age>72</age>
+      <city>СПБ</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>95</age>
+      <city>Томск</city>
+    </People>
+    <People>
+      <surname>Иванов</surname>
+      <age>72</age>
+      <city>Томск</city>
+    </People>
+    <People>
+      <surname>Трифонов</surname>
+      <age>80</age>
+      <city>Москва</city>
     </People>
     <People>
       <surname>Соколов</surname>
-      <age>32</age>
+      <age>64</age>
+      <city>Нижний Новгород</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>6</age>
+      <city>Нижний Новгород</city>
+    </People>
+    <People>
+      <surname>Трифонов</surname>
+      <age>73</age>
+      <city>Кемерово</city>
+    </People>
+    <People>
+      <surname>Кузнецов</surname>
+      <age>63</age>
+      <city>Калининград</city>
+    </People>
+    <People>
+      <surname>Сидоров</surname>
+      <age>33</age>
+      <city>СПБ</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>94</age>
+      <city>Нижний Новгород</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>10</age>
+      <city>Омск</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>57</age>
+      <city>СПБ</city>
+    </People>
+    <People>
+      <surname>Иванов</surname>
+      <age>27</age>
+      <city>Томск</city>
+    </People>
+    <People>
+      <surname>Сидоров</surname>
+      <age>9</age>
+      <city>СПБ</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>96</age>
+      <city>СПБ</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>98</age>
+      <city>Омск</city>
+    </People>
+    <People>
+      <surname>Иванов</surname>
+      <age>62</age>
+      <city>Калининград</city>
+    </People>
+    <People>
+      <surname>Трифонов</surname>
+      <age>69</age>
+      <city>Москва</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>85</age>
+      <city>Калининград</city>
+    </People>
+    <People>
+      <surname>Иванов</surname>
+      <age>64</age>
+      <city>Омск</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>82</age>
+      <city>Нижний Новгород</city>
+    </People>
+    <People>
+      <surname>Козлов</surname>
+      <age>93</age>
       <city>Новосибирск</city>
+    </People>
+    <People>
+      <surname>Козлов</surname>
+      <age>82</age>
+      <city>Калининград</city>
+    </People>
+    <People>
+      <surname>Иванов</surname>
+      <age>25</age>
+      <city>Томск</city>
+    </People>
+    <People>
+      <surname>Козлов</surname>
+      <age>23</age>
+      <city>Москва</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>6</age>
+      <city>Кемерово</city>
+    </People>
+    <People>
+      <surname>Соколов</surname>
+      <age>48</age>
+      <city>Москва</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>79</age>
+      <city>Новокузнецк</city>
+    </People>
+    <People>
+      <surname>Смирнов</surname>
+      <age>4</age>
+      <city>Омск</city>
     </People>
   </PeopleList>
 </Info>
